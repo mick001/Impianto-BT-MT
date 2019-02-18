@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Impianto BT-MT
 
-You can use the [editor on GitHub](https://github.com/mick001/impianto-BT-MT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+La presente relazione contiene la descrizione della procedura seguita e le ipotesi di progetto per il
+dimensionamento dei seguenti elementi:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mick001/impianto-BT-MT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Linee BT (di proprietà dell’utente BT).
+2. Impianto di rifasamento (di proprietà dell’utente BT).
+3. Trasformatore MT/BT.
+4. Cavo di collegamento e coordinamento CP-DG, DG-BT.
+5. Linea MT di proprietà del DSO.
