@@ -8,3 +8,5 @@ dimensionamento dei seguenti elementi:
 3. Trasformatore MT/BT.
 4. Cavo di collegamento e coordinamento CP-DG, DG-BT.
 5. Linea MT di proprietà del DSO.
+
+![impianto](https://user-images.githubusercontent.com/13961654/52953592-42c0a100-3388-11e9-907e-434471e85870.png)
